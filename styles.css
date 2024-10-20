@@ -415,7 +415,7 @@ main {
 /* Styles für das Bild im Header */
 .about__image {
   width: 210px; /* Stelle sicher, dass das Bild eine angemessene Breite hat */
-  height: 330px; /* Behält das Seitenverhältnis bei */
+  height: 320px; /* Behält das Seitenverhältnis bei */
   margin-top: 10px; /* Abstand nach oben für das Bild */
   border-radius: 8px; /* Optional: abgerundete Ecken */
   display: block; /* Sorgt dafür, dass das Bild zentriert ist */
@@ -425,6 +425,16 @@ main {
 
 .project__image {
   width: 160px; /* Breite des Bildes */
+  height: auto; /* Erhält das Seitenverhältnis */
+  margin-bottom: 10px; /* Abstand nach unten für das Bild */
+  display: block; /* Sorgt dafür, dass das Bild zentriert ist */
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px; /* Optional: Abgerundete Ecken */
+}
+
+.project__imageS {
+  width: 260px; /* Breite des Bildes */
   height: auto; /* Erhält das Seitenverhältnis */
   margin-bottom: 10px; /* Abstand nach unten für das Bild */
   display: block; /* Sorgt dafür, dass das Bild zentriert ist */
