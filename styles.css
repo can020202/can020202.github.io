@@ -435,7 +435,7 @@ main {
 
 .project__imageS {
   width: 295px; /* Breite des Bildes */
-  height: 160px; /* Erhält das Seitenverhältnis */
+  height: 150px; /* Erhält das Seitenverhältnis */
   margin-bottom: 10px; /* Abstand nach unten für das Bild */
   display: block; /* Sorgt dafür, dass das Bild zentriert ist */
   margin-left: auto;
