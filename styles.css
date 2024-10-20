@@ -413,15 +413,12 @@ main {
 }
 
 /* Styles für das Bild im Header */
-.header__image {
-  width: 100%; /* Passt das Bild an die volle Breite des Headers an */
-  height: auto; /* Erhält das Seitenverhältnis des Bildes */
+.about__image {
+  width: 150px; /* Stelle sicher, dass das Bild eine angemessene Breite hat */
+  height: auto; /* Behält das Seitenverhältnis bei */
+  margin-top: 10px; /* Abstand nach oben für das Bild */
+  border-radius: 8px; /* Optional: abgerundete Ecken */
+  display: block; /* Sorgt dafür, dass das Bild zentriert ist */
+  margin-left: auto;
+  margin-right: auto;
 }
-
-/* Styles für das Bild ganz oben auf der Seite */
-.top-image img {
-  width: 100%; /* Bild wird über die gesamte Seitenbreite angezeigt */
-  height: auto; /* Behält das Seitenverhältnis des Bildes */
-}
-
-/* Hier könntest du noch andere allgemeine Header-Styling-Regeln haben */
