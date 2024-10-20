@@ -424,7 +424,7 @@ main {
 }
 
 .project__image {
-  width: 160px; /* Breite des Bildes */
+  width: 195px; /* Breite des Bildes */
   height: auto; /* Erhält das Seitenverhältnis */
   margin-bottom: 10px; /* Abstand nach unten für das Bild */
   display: block; /* Sorgt dafür, dass das Bild zentriert ist */
@@ -434,7 +434,7 @@ main {
 }
 
 .project__imageS {
-  width: 275px; /* Breite des Bildes */
+  width: 285px; /* Breite des Bildes */
   height: auto; /* Erhält das Seitenverhältnis */
   margin-bottom: 10px; /* Abstand nach unten für das Bild */
   display: block; /* Sorgt dafür, dass das Bild zentriert ist */
