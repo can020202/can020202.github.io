@@ -411,3 +411,17 @@ main {
     display: none;
   }
 }
+
+/* Styles für das Bild im Header */
+.header__image {
+  width: 100%; /* Passt das Bild an die volle Breite des Headers an */
+  height: auto; /* Erhält das Seitenverhältnis des Bildes */
+}
+
+/* Styles für das Bild ganz oben auf der Seite */
+.top-image img {
+  width: 100%; /* Bild wird über die gesamte Seitenbreite angezeigt */
+  height: auto; /* Behält das Seitenverhältnis des Bildes */
+}
+
+/* Hier könntest du noch andere allgemeine Header-Styling-Regeln haben */
