@@ -415,7 +415,7 @@ main {
 /* Styles für das Bild im Header */
 .about__image {
   width: 245px; /* Stelle sicher, dass das Bild eine angemessene Breite hat */
-  height: auto; /* Behält das Seitenverhältnis bei */
+  height: 300px; /* Behält das Seitenverhältnis bei */
   margin-top: 10px; /* Abstand nach oben für das Bild */
   border-radius: 8px; /* Optional: abgerundete Ecken */
   display: block; /* Sorgt dafür, dass das Bild zentriert ist */
