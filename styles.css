@@ -424,7 +424,7 @@ main {
 }
 
 .project__image {
-  width: 195px; /* Breite des Bildes */
+  width: 295px; /* Breite des Bildes */
   height: auto; /* Erhält das Seitenverhältnis */
   margin-bottom: 10px; /* Abstand nach unten für das Bild */
   display: block; /* Sorgt dafür, dass das Bild zentriert ist */
